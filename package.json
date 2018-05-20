@@ -1,0 +1,30 @@
+{
+  "name": "windows-firefox",
+  "version": "0.0.1",
+  "description": "Launch a fresh Firefox on Windows",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "dependencies": {
+    "create-firefox-profile": "~1.0.0",
+    "win-detect-browsers": "3.0.0-rc1"
+  },
+  "devDependencies": {
+    "standard": "~11.0.1",
+    "tape": "~4.9.0"
+  },
+  "keywords": [
+    "browser",
+    "firefox",
+    "testing",
+    "windows"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": "vweevers/windows-firefox",
+  "bugs": "https://github.com/vweevers/windows-firefox/issues",
+  "homepage": "https://github.com/vweevers/windows-firefox"
+}
