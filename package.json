@@ -1,6 +1,6 @@
 {
   "name": "windows-firefox",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Launch a fresh Firefox on Windows",
   "license": "MIT",
   "author": "Vincent Weevers",
