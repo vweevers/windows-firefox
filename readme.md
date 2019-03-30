@@ -6,7 +6,7 @@
 [![node](https://img.shields.io/node/v/windows-firefox.svg?style=flat-square)](https://www.npmjs.org/package/windows-firefox)
 [![AppVeyor build status](https://img.shields.io/appveyor/ci/vweevers/windows-firefox.svg?style=flat-square&label=appveyor)](https://ci.appveyor.com/project/vweevers/windows-firefox)
 [![Dependency status](https://img.shields.io/david/vweevers/windows-firefox.svg?style=flat-square)](https://david-dm.org/vweevers/windows-firefox)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/windows-firefox.svg)](https://greenkeeper.io/)
 
 ## Example
 
